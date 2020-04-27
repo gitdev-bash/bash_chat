@@ -9,3 +9,9 @@ wget -q -O .client.sh https://raw.githubusercontent.com/gitdev-bash/bash_chat/ma
 ```
 bash chat.sh
 ```
+## functions 
+```
+/exit
+```
+will close the chat
+### have fun!
