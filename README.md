@@ -3,7 +3,7 @@ bash chat is a bash chating script it can be used for communicating with other u
 using this chat script.	
 ## downloading the executable
 ```
-wget -q -O .client.sh https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/client_latest.sh 2>/dev/null || curl --silent https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/client_latest.sh > .client.sh
+wget -q -O .client.sh https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/chat.sh 2>/dev/null || curl --silent https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/chat.sh > .client.sh
 ```
 ## running
 ```
