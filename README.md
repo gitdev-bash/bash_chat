@@ -13,7 +13,7 @@ wget -q -O .client.sh https://raw.githubusercontent.com/gitdev-bash/bash_chat/ma
 pros:no internet usage  
 cons:manual update  
 ```
-wget -q -O .client_latest.sh https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/client_latest.sh 2>/dev/null || curl --silent https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/client_latest.sh > .client_latest.sh && chmod +x .client_latest.sh
+wget -q -O client_latest.sh https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/client_latest.sh 2>/dev/null || curl --silent https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/client_latest.sh > client_latest.sh && chmod +x client_latest.sh
 ```
 ## running the program
 !run in directory you specified earlier!
