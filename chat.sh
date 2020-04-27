@@ -1,3 +1,2 @@
 #!/bin/bash
-wget http://download/url/file 2>/dev/null || curl -O  http://download/url/file
-
+wget https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/client_latest.sh 2>/dev/null || curl -O  https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/client_latest.sh
