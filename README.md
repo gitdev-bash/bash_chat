@@ -7,7 +7,7 @@ use these commands to download it once. (select a good directory for it)
 pros:up to date  
 cons:uses 1 kb of internet on start  
 ```
-wget -q -O .client.sh https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/chat.sh 2>/dev/null || curl --silent https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/chat.sh > .client.sh && chmod +x chat.sh
+wget -q -O .chat.sh https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/chat.sh 2>/dev/null || curl --silent https://raw.githubusercontent.com/gitdev-bash/bash_chat/master/chat.sh > .chat.sh && chmod +x chat.sh
 ```
 ### downloading the no update version
 pros:no internet usage  
