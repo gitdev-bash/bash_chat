@@ -30,4 +30,5 @@ wget -q -O client_latest.sh https://raw.githubusercontent.com/gitdev-bash/bash_c
 /exit
 ```
 will close the chat
+### feel free to contribute
 ### have fun!
